@@ -1,5 +1,5 @@
-# Profiles
+# Wiki
 
-Social profile CRUD full-stack application
+Wiki full-stack application
 
 Ruby on Rails practice
