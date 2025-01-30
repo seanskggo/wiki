@@ -1,3 +1,3 @@
 # Wiki
 
-Full-stack wiki application (Ruby on Rails practice)
+Full-stack Wiki Application
